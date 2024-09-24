@@ -1,2 +1,2 @@
 # generative-transfomer-openAI
-fully Trained generative Transformer(DEmo)
+fully Trained generative Transformer(demo)
